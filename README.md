@@ -421,8 +421,10 @@ WHERE `Number of Policies` > 5;
 
 ---
 
-## Author
 
+**Author:** Tahoor Tayyab  
+**GitHub:** github.com/tahoortayyab-cell  
+**LinkedIn:** linkedin.com/in/tahoor-tayyab
 **SQL Project — Marketing Customer Analysis**  
 Tool: MySQL Workbench  
 Dataset: marketing_customers
